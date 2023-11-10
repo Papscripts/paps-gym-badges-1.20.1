@@ -1,0 +1,12 @@
+{
+  "item.papsgymbadges.charge_badge": "Charge Badge",
+  "item.papsgymbadges.blossom_badge": "Blossom Badge",
+  "item.papsgymbadges.tide_badge": "Tide Badge",
+  "item.papsgymbadges.sage_badge": "Sage Badge",
+  "item.papsgymbadges.eclipse_badge": "Eclipse Badge",
+  "item.papsgymbadges.zephyr_badge": "Zephyr Badge",
+  "item.papsgymbadges.royal_badge": "Royal Badge",
+  "item.papsgymbadges.pillar_badge": "Pillar Badge",
+
+  "itemgroup.badges": "Gym Badges"
+}
